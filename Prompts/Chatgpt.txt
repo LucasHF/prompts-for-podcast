@@ -1,0 +1,88 @@
+TÍTULO:
+Vamos iniciar o processo de roteirização de um podcast sobre tecnologias na educação. Este podcast vai apresentar tecnologias úteis no processo de ensino-aprendizagem, visando ajudar professores de qualquer área do conhecimento a terem mais alternativas para facilitar e dinamizar as suas aulas, tanto no planejamento quanto na execução.
+
+Quero que você crie cinco sugestões de nomes para este podcast.
+
+{regras}
+- O nome deve ser simples e conter Título e Subtítulo
+- Deve ser atrativo para professores.
+
+
+Nome:EduTech na Prática - Ferramentas e estratégias tecnológicas para o ensino
+
+---------------
+
+ROTEIRO:
+Precisamos criar um episódio de um podcast semanal sobre tecnologias na educação, com o nome "EduTech na Prática - Ferramentas e estratégias tecnológicas para o ensino". Ele é voltado para professores, com foco em apresentar ferramentas que auxiliem os professores no seu trabalho, tanto no planejamento quanto na execução. 
+
+Deve seguir o seguinte formato:
+[INTRODUÇÃO]
+[APRESENTAÇÃO]
+[APLICAÇÃO]
+[FINALIZAÇÃO]
+
+{Regras}
+-  no bloco [INTRODUÇÃO] deve ser uma apresentação amigável do podcast, para acolher os ouvintes.
+-  no bloco [APRESENTAÇÃO] deve ser apresentada uma tecnologia educacional que será o foco do episódio do podcast.
+-  no bloco [APLICAÇÃO] deve mostrar como o professor pode aplicar a tecnologia apresentada dentro da sua rotina profissional.
+-  no bloco [FINALIZAÇÃO] deve haver uma despedida simples, agradecendo ao ouvinte por escutar o podcast e convidando-o a acompanhar o episódio da próxima semana.
+- Dar preferência a tecnologias gratuitas.
+
+{Regas Negativas}
+- Não se estender por mais que cinco minutos
+- Não falar de tecnologias que não possuem mais suporte.
+
+
+
+**Roteiro do Podcast: "EduTech na Prática - Ferramentas e Estratégias Tecnológicas para o Ensino"**
+
+---
+
+### [INTRODUÇÃO]
+**(Abertura musical leve e convidativa)**
+
+**Apresentador:**  
+"Olá, educadores e educadoras! Sejam muito bem-vindos ao *EduTech na Prática*, o seu podcast semanal sobre as tecnologias que estão transformando a educação. Eu sou [seu nome], e a cada semana trazemos ferramentas, estratégias e dicas para ajudar você a inovar na sala de aula e tornar seu trabalho mais dinâmico e eficaz. Se você é professor ou está envolvido com o ensino, esse espaço foi feito especialmente para você! Então, acomode-se e prepare-se para aprender algo novo que vai facilitar o seu dia a dia. Vamos lá?"
+
+---
+
+### [APRESENTAÇÃO]
+**(Som suave de transição)**
+
+**Apresentador:**  
+"Hoje, vamos falar sobre uma ferramenta incrível para melhorar a interação e o engajamento dos seus alunos nas aulas online e presenciais: o *Padlet*! Para quem ainda não conhece, o Padlet é uma plataforma online gratuita que permite criar murais colaborativos onde alunos e professores podem postar ideias, links, vídeos e imagens, tudo de maneira interativa e visual."
+
+**(Som de teclado, simbolizando uma interação com a ferramenta)**
+
+**Apresentador:**  
+"Você pode criar um mural para um projeto de classe, uma lista de recursos sobre um tema ou até mesmo uma dinâmica de brainstorming. O mais bacana é que todo mundo pode contribuir de forma simples e rápida, o que torna a experiência bem mais interativa, divertida e colaborativa. E o melhor: não há custos para usar a ferramenta na versão básica!"
+
+---
+
+### [APLICAÇÃO]
+**(Som suave de transição)**
+
+**Apresentador:**  
+"Agora, vamos entender como você pode aplicar o Padlet no seu dia a dia como professor. Vamos a algumas ideias:
+
+1. **Mural de Apresentação de Alunos:** No início do semestre, você pode pedir para que os alunos se apresentem no mural. Cada um posta uma foto, uma breve descrição e seus interesses. Isso ajuda a criar um clima de interação desde o começo.
+   
+2. **Desafios e Tarefas Interativas:** Que tal propor uma tarefa onde cada aluno deve publicar um conteúdo relevante sobre o tema da aula? Pode ser um artigo, vídeo ou até um comentário. Isso cria uma troca de conhecimento de forma dinâmica.
+
+3. **Discussões de Grupo:** Em grupos de estudos, o Padlet pode ser usado para organizar ideias de uma pesquisa coletiva, permitindo que todos possam contribuir ao mesmo tempo, em diferentes partes do mural.
+
+Além disso, a interface é super simples, e você não precisa ser nenhum expert em tecnologia para começar a usar."
+
+---
+
+### [FINALIZAÇÃO]
+**(Som de transição suave)**
+
+**Apresentador:**  
+"Então é isso, pessoal! Hoje, falamos sobre como o Padlet pode ajudar a tornar suas aulas mais interativas e colaborativas, estimulando o engajamento dos alunos e facilitando o trabalho do professor. Espero que tenha sido útil e que você se sinta inspirado para começar a usar essa ferramenta no seu próximo planejamento. Agradecemos a sua companhia e, se você gostou desse episódio, não se esqueça de acompanhar o *EduTech na Prática* na próxima semana! Até lá!"
+
+**(Encerramento musical leve)**
+
+---
+
+Esse formato busca ser direto, acolhedor e informativo, mantendo o foco no que é prático para o professor implementar rapidamente em sua rotina. O episódio não ultrapassa cinco minutos e oferece uma aplicação clara e acessível da ferramenta proposta. O que acha?
