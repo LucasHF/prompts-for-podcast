@@ -7,13 +7,13 @@ Este repositório apresenta um projeto experimental de criação de podcast util
 
 * **ChatGPT**: utilizado para gerar o título e o roteiro do episódio do podcast.
 * **Capcut**: utilizado para transformar o roteiro em voz artificial e editar o áudio final do podcast.
-* **GitHub Copilot**: utilizado para gerar a arte da capa do podcast com base em descrições fornecidas.
+* **Microsoft Copilot**: utilizado para gerar a arte da capa do podcast com base em descrições fornecidas.
 
 ## 📁 Conteúdo do Repositório
 
-* `prompts/`: Contém os prompts utilizados nas ferramentas de IA, bem como os resultados obtidos.
-* `capa/`: Imagem da capa do podcast gerada com auxílio do GitHub Copilot.
-* `audio/`: Arquivo de áudio final do podcast pronto para ser publicado.
+* `Prompts/`: Contém os prompts utilizados nas ferramentas de IA, bem como os resultados obtidos.
+* `Capa/`: Imagem da capa do podcast gerada com auxílio do GitHub Copilot.
+* `Áudio/`: Arquivo de áudio final do podcast pronto para ser publicado.
 
 ## ▶️ Como Utilizar Este Projeto
 
