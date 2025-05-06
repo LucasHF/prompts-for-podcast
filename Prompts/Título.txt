@@ -1,0 +1,12 @@
+TÍTULO:
+Vamos iniciar o processo de roteirização de um podcast sobre tecnologias na educação. Este podcast vai apresentar tecnologias úteis no processo de ensino-aprendizagem, visando ajudar professores de qualquer área do conhecimento a terem mais alternativas para facilitar e dinamizar as suas aulas, tanto no planejamento quanto na execução.
+
+Quero que você crie cinco sugestões de nomes para este podcast.
+
+{regras}
+- O nome deve ser simples e conter Título e Subtítulo
+- Deve ser atrativo para professores.
+
+
+Resultado escolhido: EduTech na Prática - Ferramentas e estratégias tecnológicas para o ensino
+

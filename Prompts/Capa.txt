@@ -1,0 +1,9 @@
+Prompt:
+
+Crie uma capa para um podcast.
+
+Título: EduTech na Prática
+Subtítulo: Ferramentas e estratégias tecnológicas para o ensino
+
+A imagem deve conter referência à informática e à educação
+Deve conter apenas uma imagem central, título e subtítulo do podcast
